@@ -16,6 +16,7 @@
     "clean": "rimraf ./dist"
   },
   "dependencies": {
+    "@floating-ui/dom": "^1.0.2",
     "@headlessui/vue": "*",
     "@heroicons/vue": "^1.0.6",
     "@tailwindcss/forms": "^0.5.2",
